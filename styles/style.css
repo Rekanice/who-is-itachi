@@ -1,0 +1,40 @@
+html {
+    background-color: #300707;
+    font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Kumbh Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+
+  h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color: #EB2828;
+    text-shadow: 4px 4px 1px rgba(182, 0, 0, 0.822);
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color:black;
+    padding: 50px 50px 50px 50px;
+    border: 5px solid white;
+  }
+
+  p{
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #EB2828;
+    padding: 50px 0 0 0;
+  }
+  li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #EB2828;     
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
